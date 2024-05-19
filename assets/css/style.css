@@ -114,7 +114,6 @@ img{
 
     .cards {
         gap: 60px;
-
     }
 
     .cardTwo img {
@@ -133,6 +132,14 @@ img{
 
     nav a.menu-movile, a.mail {
         display: block;
+    }
+
+    .menu {
+        width: 90%;
+    }
+
+    .contenido {
+        width: 80%;
     }
 
 }
